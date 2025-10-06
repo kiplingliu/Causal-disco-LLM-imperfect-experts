@@ -3,3 +3,4 @@ figures/
 _raw_bayesian_nets/
 /wandb/
 .DS_Store
+env/
