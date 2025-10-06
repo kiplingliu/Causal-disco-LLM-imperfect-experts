@@ -1,0 +1,10 @@
+bnlearn
+causaldag
+cdt
+networkx
+openai<1.0
+pandas==1.5.3
+pymed
+seaborn
+wandb
+numpy<2.0
